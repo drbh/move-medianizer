@@ -12,3 +12,4 @@ cargo test
 
 ### References
 https://github.com/aptos-labs/aptos-core/tree/main/aptos-move/move-examples  
+https://move-book.com/index.html  
